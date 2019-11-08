@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # acmeweb
 sample web server for class exercises on IoC, DIP, DI
 
@@ -15,3 +16,6 @@ Syntax for URLS:
  *    http://localhost:8080/server/status?name=Noach
 
 
+=======
+# Spring_Server1
+>>>>>>> d50f7a72964da09f321feb09c06cc240a472812e
